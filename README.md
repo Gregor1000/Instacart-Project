@@ -1,7 +1,7 @@
 # PythonCode
 The data analyst course at Careerfoundry is project based. For learning Python I did the following project:
 # **Instacart Grocery Basket Analysis**
-All information about the data used and what I did can be found in the project file [Instacart Basket Analysis.zip](https://github.com/Gregor1000/PythonCode/blob/7ba0d85b2d45e31081d37e455e1d188b64554d86/Instacart%20Basket%20Analysis.zip)
+All python coding I did can be found in the project file [Instacart Basket Analysis.zip](https://github.com/Gregor1000/PythonCode/blob/7ba0d85b2d45e31081d37e455e1d188b64554d86/Instacart%20Basket%20Analysis.zip)
 ## **Objective**
 Perform initial data and exploratory analysis of sales data from "Instacart" to derive insights and suggest strategies for better segmentation based on the provided criteria.
 ## **Context**
