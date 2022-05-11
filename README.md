@@ -20,7 +20,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 ## **Data**
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 in April 2022.
 ## Presentation of findings
-#### The findings were presented via an [Excel-Report](https://1drv.ms/x/s!AuD1Cerkd4TJr54RVUA3uWvHrS1x4g?e=CEePMZ)
+The findings were presented via an [Excel-Report](https://github.com/Gregor1000/Instacart-Project/blob/4b51f4d8ba7a974cc4a852790220d452e7144b42/Instacart%20Excel%20Report.xlsx)
 ## Learnings
 + Jupyter Fundamentals & Python Data Types & Introduction to Pandas
 + Data Wrangling & Subsetting
