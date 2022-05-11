@@ -18,6 +18,8 @@ The Instacart stakeholders are most interested in the variety of customers in th
 #### What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 ## **Data**
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 in April 2022.
+## Presentation of findings
+#### The findings were presented via an [Excel-Report](https://1drv.ms/x/s!AuD1Cerkd4TJr54RVUA3uWvHrS1x4g?e=CEePMZ)
 ## Learnings
 #### Jupyter Fundamentals & Python Data Types & Introduction to Pandas
 #### Data Wrangling & Subsetting
