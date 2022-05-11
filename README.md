@@ -18,3 +18,11 @@ What different classification does the demographic information suggest? Age? Inc
 What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 ## **Data**
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 in April 2022.
+## Learnings
+#### Jupyter Fundamentals & Python Data Types & Introduction to Pandas
+#### Data Wrangling & Subsetting
+#### Data Consistency Checks (fix mixed-type variables, deal with missing values, remove duplicates)
+#### Combining & Exporting Data
+#### Deriving New Variables (if-statements, user-defined functions, loc() function, for-loops)
+#### Grouping & Aggregating Data
+#### Data Visualization
